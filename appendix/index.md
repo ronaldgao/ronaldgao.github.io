@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+title: Appendix
+excerpt: “An Appendix for some articles“
 search_omit: true
 ---
 
