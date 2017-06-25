@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: Ronald Gao
+title: So Simple Theme
 locale: en_US
-description: The most in-depth explanations for Computer Vision and Machine Learning
+description: A simple and clean responsive Jekyll theme for words and photos.
 logo: site-logo.png
-url: https://ronaldgao.github.io/
+url: https://mmistakes.github.io/so-simple-theme
 
 # Jekyll configuration
 
@@ -36,24 +36,24 @@ comments: true
 
 # Site owner
 owner:
-  name: Ronald Gao  
-  avatar: Ronald_Gao_ProfilePic.jpg
-  email: ronaldgao96@gmail.com
-  disqus-shortname: ronaldgao-github-io
-  # twitter: mmistakes
-  # facebook: michaelrose
-  # github: mmistakes
-  # stackexchange:
-  # linkedin:
-  # instagram: mmistakes
-  # flickr:
-  # tumblr: mademistakes
-  # pinterest:
-  # weibo:
-  # google:
-    # plus: MichaelRoseDesign
-    # analytics: UA-2011187-2
-    # verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    # ad-client: ca-pub-7328585512091257
-    # ad-slot: 7855747535
-  # bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+  name: Michael Rose
+  avatar: michael-rose-photo.jpg
+  email: michael@mademistakes.com
+  disqus-shortname: sosimpletheme
+  twitter: mmistakes
+  facebook: michaelrose
+  github: mmistakes
+  stackexchange:
+  linkedin:
+  instagram: mmistakes
+  flickr:
+  tumblr: mademistakes
+  pinterest:
+  weibo:
+  google:
+    plus: MichaelRoseDesign
+    analytics: UA-2011187-2
+    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+    ad-client: ca-pub-7328585512091257
+    ad-slot: 7855747535
+  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
