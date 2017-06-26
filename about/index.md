@@ -18,5 +18,5 @@ I’m a 4rth year undergrad at UCLA. Currently doing research at the Vision, Cog
 * I will include explanations for every calculations and derivations even the pre-req’s such as linear algebra and calculus. 
 * Please feel free to contact me with ANY suggestions. If you think I missed something or you think another link is relevant then please please comment or email me.
 
-## Thanks
-* I’d like to thank professor Sriram Sankararaman for teaching CS188 Machine Learning and professor Stefano Soatto for teaching CS174B Image-Based Modeling. 
+## Thanks:
+I’d like to thank professor Sriram Sankararaman for teaching CS188 Machine Learning and professor Stefano Soatto for teaching CS174B Image-Based Modeling. 
