@@ -3,14 +3,14 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Posts
+  url: posts
 
-- title: Blog
-  url: /blog/
+- title: Appendix
+  url: appendix
 
-- title: Theme Setup
-  url: /theme-setup/
+# - title: Theme Setup
+#   url: /theme-setup/
 
 - title: Search
   url: /search/
