@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ronald Gao
-excerpt: My Computer Vision Blog
+title: About the Jekyll Theme
+excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg
@@ -9,14 +9,18 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I’m a 4rth year undergrad at UCLA. Currently doing research at the Vision, Cognition, Learning, and Autonomy Group and Ozcan Research Group under Yair Rivenson. I found a general lack of good explanations online for Computer Vision material so I thought I would contribute some of my own thought to it.
+Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-## What this blog is about:
+## So Simple Theme is all about:
 
-* Detailed explanations for topics in Computer Vision and Machine Learning
-* My goal is so that the explanations are so well-defined you won’t have to do as much google searching as I did in order to understand the computer vision material
-* I will include explanations for every calculations and derivations even the pre-req’s such as linear algebra and calculus. 
-* Please feel free to contact me with ANY suggestions. If you think I missed something or you think another link is relevant then please please comment or email me.
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
+* Minimal embellishments and subtle animations.
+* Optional large feature images for posts and pages.
+* [Custom 404 page]({{ site.url }}/404.html) to get you started.
+* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
+* Support for Disqus Comments
 
-## Thanks:
-I’d like to thank professor Sriram Sankararaman for teaching CS188 Machine Learning and professor Stefano Soatto for teaching CS174B Image-Based Modeling. 
+<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+
+[^1]: Example: *domain.com/category-name/post-title*

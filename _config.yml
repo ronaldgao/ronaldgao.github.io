@@ -1,10 +1,11 @@
 # Site wide configuration
 
-title: Ronald Gao
+title: Site Title
 locale: en_US
-description: Extremely detailed Computer Vision explanations
+description: Describe your website here.
 logo: site-logo.png
-url: https://ronaldgao.github.io/
+search: true
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -32,28 +33,27 @@ mathjax: true
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
-comments: true
 
 # Site owner
 owner:
-  name: Ronald Gao
-  avatar: Ronald_Gao_ProfilePic.jpg
-  email: ronaldgao96@gmail.com
-  disqus-shortname: ronaldgao-github-io
-  # twitter: mmistakes
-  # facebook: michaelrose
-  # github: mmistakes
-  # stackexchange:
-  # linkedin:
-  # instagram: mmistakes
-  # flickr:
-  # tumblr: mademistakes
-  # pinterest:
-  # weibo:
-  # google:
-  #   plus: MichaelRoseDesign
-  #   analytics: UA-2011187-2
-  #   verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-  #   ad-client: ca-pub-7328585512091257
-  #   ad-slot: 7855747535
-  # bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+  name: Your Name
+  avatar: bio-photo.jpg
+  email: you@email.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  github: #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
