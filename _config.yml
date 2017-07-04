@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Ronald Gao CV and ML Blog
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Extremely detailed explanations for Computer Vision and Machine Learning
 logo: site-logo.png
 url: https://ronaldgao.github.io
 
@@ -37,7 +37,7 @@ comments: true
 # Site owner
 owner:
   name: Ronald Gao  
-  avatar: michael-rose-photo.jpg
+  avatar: ronald-gao-photo.jpg
   email: ronaldgao96@gmail.com
   disqus-shortname: ronaldgao-github-io
   # twitter: mmistakes
