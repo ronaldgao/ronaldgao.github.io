@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "First Post: Defining some Pre-requisites"
-excerpt: "Defining some pre-requisites"
+title: "First Post: Pre-requisites"
+excerpt: "What should I know before I get started?"
 categories: posts
-tags: [first-post]
-modified: 2017-07-03
+modified: 2018-05-20
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: wheredoistart.jpg
+  credit: Morrocco Method
+  creditlink: http://blog.morroccomethod.com/wp-content/uploads/2016/06/wheredoistart.jpg
 comments: true
 share: false
 ---
@@ -21,16 +20,17 @@ share: false
 * Preferred: Some linear algebra skills and matrix understanding
 * I will cover literally anything nontrivial so don't worry
 
-## Textbooks ( You won't need any because the purpose of this blog is to inform u so much that u don't have to get a textbook):
-There are honestly way too many. You can google this and there are very many good ones. They might have different notation so beware. 
+## Textbooks:
+There are honestly way too many. They might _have_ different notation so beware. 
+
+Computer Vision:
 
 * An Invitation to 3-D Vision: From Images to Geometric models. 
 * Computer Vision: Algorithms and Applications by Richard S
 * Computer Vision: A Modern Approach (I think you can buy a solution set for this one)
-* Multi-view geometry in computer Vision
-* basically any computer vision book on amazon. 
+* Multi-view Geometry in computer Vision
 
-## I will try to blog as if I am teaching a course so everything you learn here can be used in an inroductory computer vision course
+
 
 
 
