@@ -9,7 +9,7 @@ url: https://ronaldgao.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-markdown:    maruku
+markdown:    kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
@@ -19,13 +19,13 @@ gems:
   - jekyll-gist
   - jekyll-feed
 
-# kramdown:
-#   input: GFM
-#   auto_ids: true
-#   footnote_nr: 1
-#   entity_output: as_char
-#   toc_levels: 1..2
-#   enable_coderay: false
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
 
 mathjax: true
 
