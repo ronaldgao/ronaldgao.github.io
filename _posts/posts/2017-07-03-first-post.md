@@ -25,10 +25,13 @@ There are honestly way too many. They might _have_ different notation so beware.
 
 Computer Vision:
 
-* An Invitation to 3-D Vision: From Images to Geometric models. 
-* Computer Vision: Algorithms and Applications by Richard S
-* Computer Vision: A Modern Approach (I think you can buy a solution set for this one)
-* Multi-view Geometry in computer Vision
+* An Invitation to 3-D Vision: From Images to Geometric models (Ma, Koˇseck´a, Soatto, Sastry) 
+* Computer Vision: Algorithms and Applications (Richard S)
+* Computer Vision: A Modern Approach (Forsyth, Ponce)
+* Multi-view Geometry in Computer Vision (Hartley, Zisserman)
+
+Optimization:
+* An Introduction to Optimization (Chong, Zak)
 
 
 
