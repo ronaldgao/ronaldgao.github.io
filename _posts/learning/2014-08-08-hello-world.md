@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 modified:
-categories: appendix
+categories: learning	
 excerpt:
 tags: []
 image:
