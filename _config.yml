@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Ronald Gao CV and ML Blog
+title: Ronald Gao 
 locale: en_US
-description: Extremely detailed explanations for Computer Vision and Machine Learning
-logo: site-logo.png
+description: ML, CV Enthusiast
+logo: site-logo.jpg
 url: https://ronaldgao.github.io
 
 # Jekyll configuration
