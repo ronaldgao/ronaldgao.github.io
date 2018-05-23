@@ -59,11 +59,11 @@ Here's a good explanation: [https://math.oregonstate.edu/home/programs/undergrad
 ### 3. _Matrix_
 \\[A\in\mathbb{R^{m \times n}}\\]
 \\[A=\begin{bmatrix}
-a_{11} & a_{12} & . & a_{1n} \\
-a_{21} & . & . & .\\
-. & . & . & .\\
-.  & . & . & .\\
-a_{m1} & . & . & a_{m\times n}\\
+a_{11} & a_{12} & . & a_{1n} \\\
+a_{21} & . & . & .\\\
+. & . & . & .\\\
+.  & . & . & .\\\
+a_{m1} & . & . & a_{m\times n}\\\
 \end{bmatrix} = [a_1,a_2,...,a_n]
 \tag1\\]
 We definitely will use the 2nd form of (1) a lot
