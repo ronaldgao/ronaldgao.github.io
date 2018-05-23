@@ -25,14 +25,14 @@ modified: 2016-06-01T14:19:19-04:00
 Here some common forms:
 \\[\alpha\in\mathbb{R}^n\\]
 \\[ \alpha =
-\bigl(\begin{smallmatrix}
+\begin{pmatrix}
   a_1 \\
   a_2 \\
   .   \\
   .   \\
   .   \\
   a_n
-\end{smallmatrix} \bigr)
+\end{pmatrix}
 \\]
 
 Transpose of the vector:
@@ -58,14 +58,14 @@ Here's a good explanation: [https://math.oregonstate.edu/home/programs/undergrad
 \\[|<x,y>|=(||x||\cdot|cos\theta|)\cdot ||y||\leq||x||\cdot|y||\\]
 ### 3. _Matrix_
 \\[A\in\mathbb{R^{m \times n}}\\]
-\\[A = \begin{bmatrix}
+\\[A=\begin{bmatrix}
 a_{11} & a_{12} & . & a_{1n} \\
 a_{21} & . & . & .\\
 . & . & . & .\\
 .  & . & . & .\\
 a_{m1} & . & . & a_{m\times n}\\
 \end{bmatrix} = [a_1,a_2,...,a_n]
-\tag1 \\]
+\tag1\\]
 We definitely will use the 2nd form of (1) a lot
 **Propositions:**
 \\(rank(A) = k \leftrightarrow dim(span[a_1,a_2,...,a_n]) = k\\)
