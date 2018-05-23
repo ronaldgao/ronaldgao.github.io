@@ -1,26 +1,45 @@
 ---
 layout: post
-title: "Optimization-Prerequisities"
+title: "Linear-Programming"
 modified:
 categories: learning
-excerpt: "What to know before learning optimization"
-tags: ["Prerequisites"]
+excerpt:
+tags: []
 image:
-  feature: wheredoistart.jpg
-  credit: Morrocco Method
-  creditlink: http://blog.morroccomethod.com/wp-content/uploads/2016/06/wheredoistart.jpg
+  feature:
 date: 2018-05-21T15:39:55-04:00
-modified: 2018-05-23T14:19:19-04:00
+modified: 2016-06-01T14:19:19-04:00
 ---
 
-# Things To Know Before Learning Optimization
-1. Linear Algebra
-	- doesn't have to be too much. A good understanding of eigenvalues/eigenvectors, matrix manipulation, basis, rank, inner product and Gram-Schmidt would be nice
-2. A little bit of Real Analysis
-	- just know the definition of a limit
-
 # Materials
-[https://github.com/ronaldgao1234/Optimization](https://github.com/ronaldgao1234/Optimization)
+- [https://github.com/ronaldgao1234/Optimization](https://github.com/ronaldgao1234/Optimization)
+- This is covered in Chapter 15 of Introduction to Optimization(Chong, Zak)
+
+## Brief History
+*Image of LP prob being subset of general constrained optimization problems*
+Goal: find a point that minimizes the objectives function and at the same time satisfies the constraints
+In LP, the problem is linear
+
+**Feasible Point:** Any point that satisfies the constraints
+
+All you gotta do is find __basic feasible solutions_
+
+**Brute-force approach:** comparing the finite number of basic feasible solutions and finding one that minimizes or maximizes the objectives function.
+- why brute force sucks
+- heuristic
+- Simplex method by Dantzig is declared one of the 10 algo's with greatest influence on the development of
+science and engineering!
+- Simplex has exponential -worst-case-complexity
+- interior-point-methods Karmarkar development of many other nonsimplex methods
+
+**Lemma:** If A has rank \\(n<m\\), then rank \\(rank(A^TA) = n\\) &nbsp;&&nbsp;  \\(A^TA > 0\\)
+https://faculty.math.illinois.edu/~llpku/2007fall415/hw1031.pdf hopefully
+**Theorem:** The unique global minimizer is \\(x^* = (A^TA)^{-1}A^Tb\\)
+Pf in notes
+
+
+
+
 ## Quick Review
 ### 1. _Vector_
 
