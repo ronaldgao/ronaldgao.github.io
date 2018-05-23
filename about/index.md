@@ -15,4 +15,9 @@ I'm a fourth year undergraduate CS student currently studying at UCLA. As I dive
 
 Feel free to contact me about anything at ronaldgao96 at gmail dot com. 
 
+## Website
+
+This website was forked from 
+[https://github.com/mmistakes/so-simple-theme](https://github.com/mmistakes/so-simple-theme). Definitely check out his great designs!
+
 
