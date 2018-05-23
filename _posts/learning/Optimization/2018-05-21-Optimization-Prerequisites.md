@@ -66,7 +66,7 @@ a_{21} & . & . & .\\\
 a_{m1} & . & . & a_{m\times n}\\\
 \end{bmatrix} = [a_1,a_2,...,a_n]
 \tag1\\]
-We definitely will use the 2nd form of (1) a lot
+We definitely will use the 2nd form of (1) a lot  
 **Propositions:**
 \\(rank(A) = k \leftrightarrow dim(span[a_1,a_2,...,a_n]) = k\\)
 
