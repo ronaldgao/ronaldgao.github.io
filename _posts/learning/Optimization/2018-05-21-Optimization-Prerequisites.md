@@ -26,11 +26,11 @@ Here some common forms:
 \\[\alpha\in\mathbb{R}^n\\]
 \\[ \alpha =
 \begin{pmatrix}
-  a_1 \\
-  a_2 \\
-  .   \\
-  .   \\
-  .   \\
+  a_1 \\\
+  a_2 \\\
+  .   \\\
+  .   \\\
+  .   \\\
   a_n
 \end{pmatrix}
 \\]
