@@ -52,7 +52,7 @@ Transpose of the vector:
 **Cauchy-Schwartz Inequality:**
 \\[|<x,y>| \leq||x||\cdot||y||\\]
 Intuitive Proof:
-Basically the dot product(the standard inner product that we're going to be using) is just the (1st vec length * cos(angle between both vec's) * 2nd vec length).
+Basically the dot product(the standard inner product that we're going to be using) is just the (1st vec length * cos(angle between both vec's) * 2nd vec length).  
 Then, cosine's max is just 1 so you get the second inequality.
 Here's a good explanation: [https://math.oregonstate.edu/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/dotprod/dotprod.html](https://math.oregonstate.edu/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/dotprod/dotprod.html)
 \\[|<x,y>|=(||x||\cdot|cos\theta|)\cdot ||y||\leq||x||\cdot|y||\\]
@@ -66,7 +66,7 @@ a_{21} & . & . & .\\\
 a_{m1} & . & . & a_{m\times n}\\\
 \end{bmatrix} = [a_1,a_2,...,a_n]
 \tag1\\]
-We definitely will use the 2nd form of (1) a lot  
+We definitely will use the 2nd form of (1) a lot
 **Propositions:**
 \\(rank(A) = k \leftrightarrow dim(span[a_1,a_2,...,a_n]) = k\\)
 
