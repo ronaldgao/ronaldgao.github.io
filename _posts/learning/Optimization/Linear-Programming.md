@@ -35,10 +35,14 @@ science and engineering!
 **Lemma:** If A has rank \\(n<m\\), then rank \\(rank(A^TA) = n\\) &nbsp;&&nbsp;  \\(A^TA > 0\\)
 https://faculty.math.illinois.edu/~llpku/2007fall415/hw1031.pdf hopefully
 **Theorem:** The unique global minimizer is \\(x^* = (A^TA)^{-1}A^Tb\\)
+
 Pf in notes
 
+Some graph here:
 
-
+```python
+print("Hello World!")
+```
 
 ## Quick Review
 ### 1. _Vector_
