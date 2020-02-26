@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post: Prerequisites"
+title: "Second Post: Prerequisites"
 excerpt: "What should I know before I get started?"
 categories: posts
 modified: 2018-05-20
@@ -14,7 +14,7 @@ share: false
 
 ## Prerequisites:
 
-* Some basic calculus understanding. I won't be going over something like partial derivative but if there is a derivation that involves something a bit more tedious like a Jacobian I will still explain it
+* At least some basic calculus understanding. I won't be going over something like partial derivative but if there is a derivation that involves something a bit more tedious like a Jacobian I will still explain it
 * Basic high school math skills
 * Definitely need to know how to code. For this course I will be using OpenCV with Python and C++ (i'll try to provide both versions of the same code). For any Machine learning I will be using Python.
 * Preferred: Some linear algebra skills and matrix understanding
